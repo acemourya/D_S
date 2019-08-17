@@ -1,0 +1,24 @@
+DataScience Module
+===============================================================================
+	-os		    : is operating system 
+	-shutil		: is to copy and other the  
+	-statistics	: provides stats functions/methods	
+	-math		: provides maths function s
+	-random		: generate random value or number 
+	-numpy		: ndimenssion or multiple dimenssion array 
+
+		
+
+
+Q. wap to find the given value in two dimenssion array / matrix 
+
+Q. wap to find the value from .txt file (return line number and word position)
+
+
+Q. wap to get the average/mean of one dimenssion array and show values which is greater than average from same array 
+
+
+
+
+
+	
